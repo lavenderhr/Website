@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 620" role="img" aria-label="Abstract lavender botanical illustration">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d9c7e8"/>
+      <stop offset="1" stop-color="#8f70ad"/>
+    </linearGradient>
+    <filter id="s"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <circle cx="520" cy="160" r="150" fill="#eee7f5"/>
+  <circle cx="180" cy="440" r="120" fill="#f5f0f9"/>
+  <path d="M350 560 C350 390 350 220 360 70" fill="none" stroke="#6a4e8c" stroke-width="7" stroke-linecap="round"/>
+  <path d="M355 380 C260 320 220 245 230 160" fill="none" stroke="#8f70ad" stroke-width="6" stroke-linecap="round"/>
+  <path d="M355 300 C455 260 505 190 500 105" fill="none" stroke="#8f70ad" stroke-width="6" stroke-linecap="round"/>
+  <path d="M355 450 C450 420 520 350 535 275" fill="none" stroke="#8f70ad" stroke-width="6" stroke-linecap="round"/>
+  <g fill="url(#g)">
+    <ellipse cx="230" cy="160" rx="30" ry="12" transform="rotate(30 230 160)"/>
+    <ellipse cx="245" cy="190" rx="30" ry="12" transform="rotate(50 245 190)"/>
+    <ellipse cx="275" cy="215" rx="30" ry="12" transform="rotate(25 275 215)"/>
+    <ellipse cx="500" cy="105" rx="30" ry="12" transform="rotate(-30 500 105)"/>
+    <ellipse cx="485" cy="140" rx="30" ry="12" transform="rotate(-55 485 140)"/>
+    <ellipse cx="455" cy="165" rx="30" ry="12" transform="rotate(-25 455 165)"/>
+    <ellipse cx="535" cy="275" rx="30" ry="12" transform="rotate(-10 535 275)"/>
+    <ellipse cx="515" cy="305" rx="30" ry="12" transform="rotate(-45 515 305)"/>
+    <ellipse cx="485" cy="330" rx="30" ry="12" transform="rotate(-20 485 330)"/>
+  </g>
+  <circle cx="360" cy="300" r="105" fill="#fff" opacity=".82"/>
+  <circle cx="360" cy="300" r="82" fill="none" stroke="#d9c7e8" stroke-width="2"/>
+  <text x="360" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#4b365f">PEOPLE</text>
+  <text x="360" y="322" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#4b365f">PERFORMANCE</text>
+</svg>
